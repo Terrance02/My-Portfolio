@@ -1,9 +1,9 @@
-.coding{
-	color:red;
-}
+.coding {color:black;}
 
-.coding p{
-	font-size: 30px;
-}
+.coding p{font-size: 30px;}
+
+.coding img{height:250px; width:300px;}
+
+.coding {background-color:red;}
 
 .coding 
